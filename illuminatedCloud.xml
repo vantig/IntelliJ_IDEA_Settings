@@ -12,11 +12,10 @@
         </IlluminatedCloudConnectionConfig>
       </list>
     </option>
-    <option name="deployOnSave" value="false" />
     <option name="fileTypeAssistancePolicy" value="ALWAYS" />
     <option name="promptOverrideSaveAllAction" value="false" />
     <option name="selectedConnectionIndex" value="0" />
-    <option name="selectedTabIndex" value="1" />
+    <option name="selectedTabIndex" value="2" />
     <option name="sfdxExecutablePath" value="C:/Program Files/sfdx/bin/sfdx.cmd" />
   </component>
 </application>
