@@ -1,0 +1,8 @@
+<application>
+  <component name="IlluminatedCloudSettings">
+    <option name="promptOverrideSaveAllAction" value="false" />
+    <option name="selectedConnectionIndex" value="0" />
+    <option name="selectedTabIndex" value="3" />
+    <option name="sfdxExecutablePath" value="C:/Program Files/Salesforce CLI/bin/sfdx.cmd" />
+  </component>
+</application>
