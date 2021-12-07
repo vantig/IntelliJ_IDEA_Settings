@@ -36,6 +36,7 @@
         </IlluminatedCloudConnectionConfig>
       </list>
     </option>
+    <option name="fileTypeAssistancePolicy" value="NEVER" />
     <option name="lastChangeNotesVersion" value="2.1.9.6" />
     <option name="promptOverrideSaveAllAction" value="false" />
     <option name="selectedConnectionIndex" value="1" />

@@ -1,17 +1,12 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="networkbranding" type="JSON" />
-      <removed_mapping ext="permissionset" type="Permission Set" />
-      <removed_mapping ext="profile" type="Profile" />
-      <mapping ext="permissionset" type="XML" />
-      <mapping ext="md" type="XML" />
-      <mapping ext="config" type="XML" />
-      <mapping ext="profile" type="XML" />
-      <removed_mapping ext="networkbranding" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
+      <removed_mapping ext="networkbranding" approved="true" type="XML" />
+      <removed_mapping ext="permissionset" approved="true" type="Permission Set" />
+      <removed_mapping ext="profile" approved="true" type="Profile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
